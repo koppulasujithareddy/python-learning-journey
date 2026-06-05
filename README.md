@@ -13,7 +13,7 @@ This repository contains all my Python practice programs from beginner level to 
 - Data Types
 - type()
 
----
+----
 
 ### 🔹 Operators
 - Arithmetic Operators (+, -, *, /)

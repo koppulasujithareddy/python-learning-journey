@@ -3,12 +3,15 @@
 ![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge\&logo=python)
 ![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-orange?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-red?style=for-the-badge)
 
 ---
 
 ## 👩‍💻 About This Repository
 
-This repository contains my Python learning journey from beginner level concepts to more advanced fundamentals. I practice daily and upload my programs to GitHub to track my progress and improve my coding skills.
+This repository contains my Python learning journey from beginner concepts to intermediate fundamentals.
+
+I practice Python daily, solve small tasks, and upload my progress to GitHub to improve my programming and problem-solving skills.
 
 ---
 
@@ -19,20 +22,27 @@ This repository contains my Python learning journey from beginner level concepts
 * Variables
 * print()
 * input()
+* int(input())
 * Data Types
 * type()
 
+---
+
 ### 🔵 Operators
 
-* Arithmetic Operators
-* Comparison Operators
-* Logical Operators
+* Arithmetic Operators (+, -, *, /)
+* Comparison Operators (>, <, ==)
+* Logical Operators (and, or)
+
+---
 
 ### 🟣 Conditional Statements
 
 * if
 * else
 * elif
+
+---
 
 ### 🔁 Loops
 
@@ -42,12 +52,15 @@ This repository contains my Python learning journey from beginner level concepts
 * continue
 * range()
 * range() with step
+* Pattern Printing
 
-### 🔤 Strings
+---
+
+### 🔤 String Operations
 
 * String Concatenation
 * len()
-* Indexing
+* String Indexing
 * upper()
 * lower()
 * capitalize()
@@ -62,6 +75,8 @@ This repository contains my Python learning journey from beginner level concepts
 * strip()
 * isdigit()
 * isalpha()
+
+---
 
 ### 📋 Lists
 
@@ -78,6 +93,8 @@ This repository contains my Python learning journey from beginner level concepts
 * index()
 * in keyword
 
+---
+
 ### 📚 Dictionaries
 
 * Creating Dictionaries
@@ -92,37 +109,94 @@ This repository contains my Python learning journey from beginner level concepts
 
 ---
 
-## 🏆 Skills Gained
+### 📦 Tuples
 
-* Python Fundamentals
-* Problem Solving
-* Working with Strings
-* List Manipulation
-* Dictionary Operations
-* Loops and Conditions
-* User Input Handling
+* Tuple Creation
+* Tuple Indexing
+* len()
+* count()
+* index()
 
 ---
 
-## 🎯 Goals
+## 🏆 Skills Gained
 
-* Master Python Programming
+✅ Python Fundamentals
+
+✅ User Input Handling
+
+✅ Looping and Iteration
+
+✅ String Manipulation
+
+✅ List Operations
+
+✅ Dictionary Operations
+
+✅ Tuple Operations
+
+✅ Basic Problem Solving
+
+✅ Logical Thinking
+
+---
+
+## 📂 Repository Contents
+
+This repository includes:
+
+* Beginner Python Programs
+* Daily Practice Exercises
+* Loop Programs
+* String Programs
+* List Programs
+* Dictionary Programs
+* Tuple Programs
+* Input and Output Programs
+
+---
+
+## 🎯 Learning Goals
+
+* Master Python Fundamentals
 * Learn Data Structures & Algorithms
 * Build AI & Machine Learning Projects
-* Improve Problem Solving Skills
-* Prepare for Software Engineering Placements
+* Improve Coding Skills
+* Prepare for Technical Interviews
+* Become an AI Engineer
 
 ---
 
 ## 🌱 About Me
 
-👩‍🎓 CSE (AI & ML) Student
+👩‍🎓 B.Tech Student (CSE - AI & ML)
 
 🤖 Aspiring AI Engineer
 
-💻 Passionate about Python, AI and Technology
+💻 Passionate about Python, AI, and Machine Learning
 
-🚀 Learning and building projects every day
+🚀 Learning step-by-step through daily practice
+
+---
+
+## 📈 Current Progress
+
+* Python Basics ✅
+* Strings ✅
+* Lists ✅
+* Dictionaries ✅
+* Tuples ✅
+* Loops ✅
+* Problem Solving 🔄
+* Data Structures 🔄
+* OOPs ⏳
+* AI/ML ⏳
+
+---
+
+## ⭐ Quote
+
+"Consistency beats intensity. Small daily progress leads to big results."
 
 ---
 

@@ -9,9 +9,9 @@
 
 ## 👩‍💻 About This Repository
 
-This repository contains my Python learning journey from beginner concepts to intermediate fundamentals.
+This repository documents my Python learning journey from beginner concepts to intermediate fundamentals.
 
-I practice Python daily, solve small tasks, and upload my progress to GitHub to improve my programming and problem-solving skills.
+I practice Python daily, solve coding exercises, and upload my progress to GitHub to improve my programming, problem-solving, and software development skills.
 
 ---
 
@@ -30,9 +30,16 @@ I practice Python daily, solve small tasks, and upload my progress to GitHub to 
 
 ### 🔵 Operators
 
-* Arithmetic Operators (+, -, *, /)
-* Comparison Operators (>, <, ==)
-* Logical Operators (and, or)
+* Arithmetic Operators
+* Comparison Operators
+
+  * `>`
+  * `<`
+  * `==`
+* Logical Operators
+
+  * `and`
+  * `or`
 
 ---
 
@@ -71,7 +78,6 @@ I practice Python daily, solve small tasks, and upload my progress to GitHub to 
 * join()
 * startswith()
 * endswith()
-* find()
 * strip()
 * isdigit()
 * isalpha()
@@ -91,7 +97,7 @@ I practice Python daily, solve small tasks, and upload my progress to GitHub to 
 * min()
 * count()
 * index()
-* in keyword
+* Membership Operator (`in`)
 
 ---
 
@@ -119,11 +125,13 @@ I practice Python daily, solve small tasks, and upload my progress to GitHub to 
 
 ---
 
-## 🏆 Skills Gained
+## 🏆 Skills Developed
 
 ✅ Python Fundamentals
 
 ✅ User Input Handling
+
+✅ Logical Thinking
 
 ✅ Looping and Iteration
 
@@ -135,24 +143,28 @@ I practice Python daily, solve small tasks, and upload my progress to GitHub to 
 
 ✅ Tuple Operations
 
-✅ Basic Problem Solving
+✅ Problem Solving
 
-✅ Logical Thinking
+✅ Daily Coding Practice
 
 ---
 
 ## 📂 Repository Contents
 
-This repository includes:
+This repository contains:
 
-* Beginner Python Programs
-* Daily Practice Exercises
+* Python Basics Programs
+* Input/Output Programs
+* Operator Programs
+* Conditional Statement Programs
 * Loop Programs
+* Pattern Printing Programs
 * String Programs
 * List Programs
 * Dictionary Programs
 * Tuple Programs
-* Input and Output Programs
+* Revision Exercises
+* Daily Practice Tasks
 
 ---
 
@@ -161,7 +173,7 @@ This repository includes:
 * Master Python Fundamentals
 * Learn Data Structures & Algorithms
 * Build AI & Machine Learning Projects
-* Improve Coding Skills
+* Improve Problem Solving Skills
 * Prepare for Technical Interviews
 * Become an AI Engineer
 
@@ -173,31 +185,50 @@ This repository includes:
 
 🤖 Aspiring AI Engineer
 
-💻 Passionate about Python, AI, and Machine Learning
+💻 Passionate about Python, Artificial Intelligence, and Machine Learning
 
-🚀 Learning step-by-step through daily practice
+🚀 Learning through daily practice and hands-on coding
 
 ---
 
 ## 📈 Current Progress
 
-* Python Basics ✅
-* Strings ✅
-* Lists ✅
-* Dictionaries ✅
-* Tuples ✅
-* Loops ✅
-* Problem Solving 🔄
-* Data Structures 🔄
-* OOPs ⏳
-* AI/ML ⏳
+| Topic           | Status |
+| --------------- | ------ |
+| Python Basics   | ✅      |
+| Operators       | ✅      |
+| Strings         | ✅      |
+| Lists           | ✅      |
+| Dictionaries    | ✅      |
+| Tuples          | ✅      |
+| Loops           | ✅      |
+| Problem Solving | 🔄     |
+| OOPs            | ⏳      |
+| Data Structures | ⏳      |
+| AI/ML           | ⏳      |
 
 ---
 
-## ⭐ Quote
+## ⭐ Daily Practice Philosophy
 
-"Consistency beats intensity. Small daily progress leads to big results."
+> Consistency beats intensity.
+
+Even small daily coding sessions help build strong programming skills over time.
 
 ---
 
-⭐ Thank you for visiting my repository!
+## 🚀 Future Topics
+
+* Functions
+* OOPs (Classes & Objects)
+* File Handling
+* Exception Handling
+* Modules & Packages
+* Data Structures
+* NumPy
+* Pandas
+* Machine Learning Basics
+
+---
+
+⭐ Thank you for visiting my repository and following my Python learning journey!

@@ -30,16 +30,9 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 
 ### 🔵 Operators
 
-* Arithmetic Operators
-* Comparison Operators
-
-  * `>`
-  * `<`
-  * `==`
-* Logical Operators
-
-  * `and`
-  * `or`
+* Arithmetic Operators (+, -, *, /)
+* Comparison Operators (>, <, ==)
+* Logical Operators (and, or)
 
 ---
 
@@ -125,13 +118,22 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 
 ---
 
+### 🎯 Sets
+
+* Set Creation
+* Duplicate Removal
+* add()
+* remove()
+
+---
+
 ## 🏆 Skills Developed
 
 ✅ Python Fundamentals
 
 ✅ User Input Handling
 
-✅ Logical Thinking
+✅ Conditional Logic
 
 ✅ Looping and Iteration
 
@@ -142,6 +144,8 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 ✅ Dictionary Operations
 
 ✅ Tuple Operations
+
+✅ Set Operations
 
 ✅ Problem Solving
 
@@ -163,6 +167,7 @@ This repository contains:
 * List Programs
 * Dictionary Programs
 * Tuple Programs
+* Set Programs
 * Revision Exercises
 * Daily Practice Tasks
 
@@ -197,23 +202,18 @@ This repository contains:
 | --------------- | ------ |
 | Python Basics   | ✅      |
 | Operators       | ✅      |
+| Conditions      | ✅      |
+| Loops           | ✅      |
 | Strings         | ✅      |
 | Lists           | ✅      |
 | Dictionaries    | ✅      |
 | Tuples          | ✅      |
-| Loops           | ✅      |
+| Sets            | ✅      |
 | Problem Solving | 🔄     |
 | OOPs            | ⏳      |
+| File Handling   | ⏳      |
 | Data Structures | ⏳      |
 | AI/ML           | ⏳      |
-
----
-
-## ⭐ Daily Practice Philosophy
-
-> Consistency beats intensity.
-
-Even small daily coding sessions help build strong programming skills over time.
 
 ---
 
@@ -228,6 +228,14 @@ Even small daily coding sessions help build strong programming skills over time.
 * NumPy
 * Pandas
 * Machine Learning Basics
+
+---
+
+## ⭐ Daily Practice Philosophy
+
+> Consistency beats intensity.
+
+Small daily progress leads to strong programming skills over time.
 
 ---
 

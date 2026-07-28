@@ -7,7 +7,7 @@
  
 ---  
  
-## 👩‍💻 About This Repository 
+## 👩‍💻 About This Repository  
  
 This repository documents my Python learning journey from beginner concepts to intermediate fundamentals.
 

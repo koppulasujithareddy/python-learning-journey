@@ -14,7 +14,7 @@ This repository documents my Python learning journey from beginner concepts to i
 I practice Python daily, solve coding exercises, and upload my progress to GitHub to improve my programming, problem-solving, and software development skills.
 
 ---
-
+ 
 ## 📚 Topics Covered
 
 ### 🟢 Python Basics

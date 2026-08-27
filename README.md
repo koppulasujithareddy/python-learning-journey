@@ -1,7 +1,7 @@
 # 🚀 Python Learning Journey
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge\&logo=python) 
-![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge) 
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-orange?style=for-the-badge)  
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-red?style=for-the-badge)  
        

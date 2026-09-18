@@ -50,7 +50,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * while loop
 * break
 * continue
-* range()
+* range() 
 * range() with step
 * Pattern Printing
 

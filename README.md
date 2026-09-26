@@ -72,7 +72,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * startswith()
 * endswith()
 * strip()
-* isdigit()
+* isdigit() 
 * isalpha()
 
 ---

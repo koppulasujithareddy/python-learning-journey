@@ -104,7 +104,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * update()
 * get()
 * pop()
-* clear()
+* clear()  
 
 ---
 

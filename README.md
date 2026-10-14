@@ -71,7 +71,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * join()
 * startswith()
 * endswith()
-* strip()
+* strip() 
 * isdigit() 
 * isalpha()
 

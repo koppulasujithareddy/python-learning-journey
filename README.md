@@ -88,7 +88,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * sum()
 * max()
 * min()
-* count()
+* count() 
 * index()
 * Membership Operator (`in`)
 

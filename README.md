@@ -63,7 +63,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * String Indexing
 * upper()
 * lower()
-* capitalize()
+* capitalize() 
 * title()
 * swapcase()
 * replace()

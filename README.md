@@ -103,7 +103,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 * items()
 * update()
 * get()  
-* pop()
+* pop()  
 * clear()   
 
 ---

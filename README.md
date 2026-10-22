@@ -56,7 +56,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 
 ---
 
-### 🔤 String Operations
+### 🔤 String Operations. 
 
 * String Concatenation
 * len()

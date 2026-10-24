@@ -122,7 +122,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 
 * Set Creation
 * Duplicate Removal
-* add()
+* add()  
 * remove()
   
 ---

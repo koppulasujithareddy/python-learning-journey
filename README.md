@@ -168,7 +168,7 @@ This repository contains:
 * Dictionary Programs
 * Tuple Programs
 * Set Programs
-* Revision Exercises
+* Revision Exercises 
 * Daily Practice Tasks
 
 ---

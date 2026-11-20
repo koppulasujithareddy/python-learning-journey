@@ -18,7 +18,7 @@ I practice Python daily, solve coding exercises, and upload my progress to GitHu
 ## 📚 Topics Covered  
 
 ### 🟢 Python Basics 
-
+ 
 * Variables
 * print()
 * input()
